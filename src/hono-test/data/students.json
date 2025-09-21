@@ -1,0 +1,121 @@
+[
+{
+"student_id": "std_001",
+"first_name": "Anna",
+"last_name": "Karlsson",
+"email": "anna.k@example.com",
+"date_of_birth": "2003-05-15",
+"major": "Software Engineering",
+"course_id": "PGSQL-101"
+},
+{
+"student_id": "std_003",
+"first_name": "Mikael",
+"last_name": "Persson",
+"email": "m.persson@example.com",
+"date_of_birth": "2002-01-20",
+"major": "Data Science",
+"phone_number": "070-1112233",
+"course_id": "PGSQL-101"
+},
+{
+"student_id": "std_007",
+"first_name": "Sofia",
+"last_name": "Lindgren",
+"email": "sofia.lindgren@example.com",
+"date_of_birth": "2004-03-12",
+"course_id": "PGSQL-101"
+},
+{
+"student_id": "std_001",
+"first_name": "Anna",
+"last_name": "Karlsson",
+"email": "anna.k@example.com",
+"date_of_birth": "2003-05-15",
+"major": "Software Engineering",
+"course_id": "WEBDEV-205"
+},
+{
+"student_id": "std_002",
+"first_name": "Lars",
+"last_name": "Andersson",
+"email": "lars.a@example.com",
+"date_of_birth": "2001-11-30",
+"major": "Software Engineering",
+"phone_number": "073-9876543",
+"course_id": "WEBDEV-205"
+},
+{
+"student_id": "std_004",
+"first_name": "Emma",
+"last_name": "Nilsson",
+"email": "emma.nilsson@example.com",
+"date_of_birth": "2003-08-22",
+"course_id": "WEBDEV-205"
+},
+{
+"student_id": "std_009",
+"first_name": "William",
+"last_name": "Berg",
+"email": "william.b@example.com",
+"date_of_birth": "2002-12-01",
+"major": "Interaction Design",
+"course_id": "WEBDEV-205"
+},
+{
+"student_id": "std_005",
+"first_name": "Karin",
+"last_name": "Eriksson",
+"email": "karin.e@example.com",
+"date_of_birth": "2000-06-10",
+"major": "History",
+"phone_number": "076-5554433",
+"course_id": "HIST-101"
+},
+{
+"student_id": "std_006",
+"first_name": "Peter",
+"last_name": "Johansson",
+"email": "p.johansson@example.com",
+"date_of_birth": "2001-02-05",
+"course_id": "HIST-101"
+},
+{
+"student_id": "std_010",
+"first_name": "Olivia",
+"last_name": "Holm",
+"email": "olivia.h@example.com",
+"date_of_birth": "2004-07-19",
+"major": "Political Science",
+"course_id": "HIST-101"
+},
+{
+"student_id": "std_002",
+"first_name": "Lars",
+"last_name": "Andersson",
+"email": "lars.a@example.com",
+"date_of_birth": "2001-11-30",
+"major": "Software Engineering",
+"phone_number": "073-9876543",
+"course_id": "ALGO-301"
+},
+{
+"student_id": "std_003",
+"first_name": "Mikael",
+"last_name": "Persson",
+"email": "m.persson@example.com",
+"date_of_birth": "2002-01-20",
+"major": "Data Science",
+"phone_number": "070-1112233",
+"course_id": "ALGO-301"
+},
+{
+"student_id": "std_008",
+"first_name": "Erik",
+"last_name": "Gustafsson",
+"email": "erik.g@example.com",
+"date_of_birth": "2002-09-03",
+"major": "Computer Science",
+"course_id": "ALGO-301"
+}
+]
